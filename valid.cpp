@@ -6,7 +6,7 @@
  * Program asks the user for an integer in thr range of 0 to 100, if the number is out of range the 
  * program asks the user to renter until a valid number is input. After a valid value is obtained,
  * the program prints the number squared.
- */
+ */ 
 #include <iostream>
 using namespace std;
 
